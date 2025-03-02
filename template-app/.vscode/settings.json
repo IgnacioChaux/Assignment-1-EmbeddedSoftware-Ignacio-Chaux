@@ -1,0 +1,14 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.portWin": "COM5",
+  "idf.flashType": "UART",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32"
+  },
+  "idf.openOcdConfigs": [
+    "board/esp32-wrover-kit-3.3v.cfg"
+  ],
+  "files.associations": {
+    "stdio.h": "c"
+  }
+}
